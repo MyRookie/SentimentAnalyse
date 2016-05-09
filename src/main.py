@@ -6,8 +6,8 @@ from flask import request
 import Analyse.AnalyseSentiment
 import Analyse.Analyser
 
-client = MongoClient('mongodb://localhost:27017/')
-db = client.fb
+# client = MongoClient('mongodb://localhost:27017/')
+# db = client.fb
 
 
 app = Flask(__name__)
