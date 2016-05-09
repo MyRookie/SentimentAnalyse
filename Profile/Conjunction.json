@@ -1,0 +1,12 @@
+{
+	"conjunction" : [
+		{"but":["Cur",""]},
+		{"yet":["Cur",""]},
+		{"although":["Oth",""]},
+		{"even":["Oth","though"]},
+		{"however":["Cur",""]},
+		{"rather":["Cur",""]},
+		{"though":["Cur",""]},
+		{"whereas":["Cur",""]}
+	]
+}
